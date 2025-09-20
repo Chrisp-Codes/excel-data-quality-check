@@ -24,7 +24,7 @@ This macro demonstrates how simple automation can reduce effort and minimize mis
 
 **## Example Data**  
 To make testing easier, an example file is provided:  
-- [examples/dummy_data.xlsx](examples/dummy_data.xlsx)  
+- dummy_data.xlsx
 - Sheet name: `Data`  
 - Contains 5 rows with fake names and mixed empty fields  
 
