@@ -30,9 +30,6 @@ To make testing easier, an example file is provided:
 
 Run the macro on this file to see how missing fields are marked with `X` in the generated report.  
 
-**## Example Output**  
-*(Optional: insert screenshot here)*  
-
 ## Status
 - Proof of Concept (POC)  
 - Not intended for production use  
