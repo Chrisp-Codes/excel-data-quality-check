@@ -18,16 +18,20 @@ This macro demonstrates how simple automation can reduce effort and minimize mis
 
 ## Usage
 1. Open Excel and press `ALT + F11` to access the VBA editor.  
-2. Insert a new module and paste the code from `DataQualityCheck.vbs`.  
+2. Insert a new module and paste the code from `src/DataQualityCheck.vbs`.  
 3. Run the macro `DataQualityCheck`.  
 4. The macro will generate a new sheet called `Report` and optionally export it as PDF.
 
-## Example Workflow
-- Input sheet: Contains rows of employee/customer/product data.  
-- Macro checks for missing values in critical fields.  
-- Report sheet shows: First Name, Last Name + missing fields (marked with `X`).  
+**## Example Data**  
+To make testing easier, an example file is provided:  
+- [examples/dummy_data.xlsx](examples/dummy_data.xlsx)  
+- Sheet name: `Data`  
+- Contains 5 rows with fake names and mixed empty fields  
 
-*(Dummy examples only, no real data included)*
+Run the macro on this file to see how missing fields are marked with `X` in the generated report.  
+
+**## Example Output**  
+*(Optional: insert screenshot here)*  
 
 ## Status
 - Proof of Concept (POC)  
