@@ -3,7 +3,8 @@
 ![Language](https://img.shields.io/badge/language-VBA-blue)
 ![Status](https://img.shields.io/badge/status-POC-orange)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-[English Version](README_en.md)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README_en.md)
+
 
 ## Überblick
 Dieses Repository enthält ein **VBA-Makro** als Proof of Concept zur automatisierten Prüfung der Datenqualität in Excel-Tabellen.  
