@@ -1,5 +1,9 @@
 # Excel Data Quality Check (POC)
-[Deutsche Version](README.md)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-POC-orange)
+[![README Deutsch](https://img.shields.io/badge/README-Deutsch-informational?style=flat-square)](README.md)
+
 
 ## Overview
 This repository contains a **VBA macro** as a proof of concept for automated data quality checks in Excel tables.  
