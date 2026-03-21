@@ -51,9 +51,3 @@ First coding project — part of a progression documented across this portfolio.
 This project is licensed under the MIT License.
 See the [LICENSE](LICENSE) file for details.
 ```
-
----
-
-Commit-Message:
-```
-docs: fix wrong badge in README_en, simplify status section DE and EN
